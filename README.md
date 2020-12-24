@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+You are ![visitor_count](https://visitor-badge.glitch.me/badge?page_id=sbwww.README) !
+
+- 🔭 I’m currently working on my B.S degree in Computer Science, NUIST.
+- 🌱 Improve yourself constantly!
+
+|![stats](https://github-readme-stats.vercel.app/api?username=sbwww&show_icons=true&count_private=false&theme=default_repocard)|![top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbwww&layout=compact)|
+|:-:|:-:|
+
 <!--
 **sbwww/sbwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
